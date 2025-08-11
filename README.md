@@ -1,58 +1,46 @@
-# 👋 Welcome to Murilo Santiago Escobedo's GitHub!
+# 👋 Welcome to my GitHub! / Bem-vindo ao meu GitHub!
 
-## About Me | Sobre Mim
-🌍 Based in Diamantina, Minas Gerais, Brazil  
-💻 Junior React Developer with international experience and a passion for building scalable applications and innovative solutions.  
-📘 Currently pursuing a Bachelor’s degree in Information Systems at UFVJM (4th semester).  
+## 💡 About Me | Sobre Mim
+🌍 Diamantina, Minas Gerais, Brazil  
+💻 **Full-Stack Developer** — Next.js, NestJS, React Native, TypeScript, Spring Boot  
+🎓 6th semester of **B.Sc. in Information Systems** – UFVJM  
+🔧 VPS/DNS setup, deployments on Vercel, Coolify, and home servers with FRP + Nginx  
 
 ---
 
-## 🌟 Interests | Interesses
-- 🚀 **Front-End Development**: Building intuitive and engaging user interfaces using React.js, React Native, and TypeScript.  
-- 📱 **Mobile Development**: Passionate about creating dynamic mobile apps with Expo and JavaScript.  
-- 🌍 **Global Collaboration**: Experienced in multicultural and international team environments.  
+## 🛠️ Tech Stack | Stack de Tecnologias
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=4snt&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4snt&layout=compact&theme=radical)
 
 ---
 
 ## 💼 Experience | Experiência
-- **Junior React Developer** with expertise in React.js, React Native, TypeScript, and Expo.  
-- Professional experience in both Brazil and the United States, thriving in diverse and Agile-driven teams.  
-- **Notable Projects | Projetos Notáveis**:
-  - **Next Step**: Enhanced sales strategies for B2B and B2C markets as a Commercial Manager.  
-  - **Beacon Consulting Services (USA)**: Supported IT operations and tools like Slack and Office 365.  
-  - **Projeto Verde Futuro**: Designed and developed a gamification mobile app launched on both iOS and Android platforms.  
+- **Achei Solutions Inc.** — Full-Stack Developer (2024 – Present)  
+- **Projeto Verde Futuro** — Full-Stack Scholar (2024 – Present)  
+- **Next Step** — Sales Manager (2022 – 2023)  
+- **Beacon Consulting (USA)** — IT Support / Developer (2021 – 2022)  
 
 ---
 
-## 🛠️ Technical Skills | Habilidades Técnicas
-- **Programming Languages | Linguagens de Programação**: JavaScript, TypeScript  
-- **Libraries & Frameworks | Bibliotecas e Frameworks**: React.js, React Native, Expo, Redux  
-- **Tools | Ferramentas**: Git, VS Code, JIRA, Slack  
-- **Methodologies | Metodologias**: Agile (Scrum, sprint planning, retrospectives)  
-- **Languages | Idiomas**: Portuguese (Native), English (Advanced, Professional)  
+## 📫 Contact | Contato
+📧 **Email:** murilo.escobedo@protonmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/murilo-santiago-escobedo](https://linkedin.com/in/murilo-santiago-escobedo-115077238)  
+💻 **GitHub:** [github.com/4snt](https://github.com/4snt)  
+📱 **Phone:** +55 31 98456-7800  
 
 ---
-
-## 🌱 Currently Learning | Atualmente Aprendendo
-- Advanced front-end development techniques.  
-- Deepening my knowledge of TypeScript and Redux.  
-- Exploring the latest trends in mobile app development.  
-
----
-
-## 💞️ Let’s Collaborate! | Vamos Colaborar!
-- Excited to work on **front-end projects** or mobile applications that challenge creativity and skill.  
-- Open to opportunities that focus on **React.js** and **React Native**.  
-
----
-
-## 📫 How to Reach Me | Como Entrar em Contato
-- **Email**: murilo.escobedo@protonmail.com  
-- **LinkedIn**: [Connect with me | Conecte-se comigo](https://www.linkedin.com/in/murilo-santiago/)  
-- **Phone | Telefone**: +55 31 98456-7800  
-
----
-
-## ⚡ Fun Fact | Curiosidade
-I thrive in multicultural environments and love using technology to connect and create solutions for diverse challenges. ✨  
-Adoro atuar em ambientes multiculturais e usar a tecnologia para criar soluções que conectem pessoas e resolvam desafios diversos. ✨
