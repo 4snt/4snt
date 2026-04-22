@@ -51,7 +51,6 @@
 ## 💼 Experience | Experiência
 
 - **[Gafit](https://gafit.com.br/en)** — Full-Stack Developer (2025 – Present)  
-  Laravel 13 · Inertia.js · Vue · Blade · Bun · TypeScript
 - **Achei Solutions Inc.** — Full-Stack Developer (2024 – 2025)  
   Next.js · NestJS · React Native · TypeScript
 - **Projeto Verde Futuro** — Full-Stack Scholar (2024)  
