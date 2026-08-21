@@ -6,7 +6,7 @@
 </p>
 
 > Full-Stack Developer from **Diamantina, MG 🇧🇷** — building real products since 2021.  
-> Currently finishing my **B.Sc. in Information Systems at UFVJM** (7th semester)  
+> Currently finishing my **B.Sc. in Information Systems at UFVJM** (8th semester)  
 > and working at **[Gafit](https://gafit.com.br/en)** crafting Laravel + Inertia apps.
 
 ---
